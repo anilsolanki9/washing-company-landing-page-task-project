@@ -25,7 +25,7 @@ body {
     /* background: linear-gradient(to bottom left, #ffe5c9, #acd7dc); */
     /* background: linear-gradient(to bottom left, #f9d3e0, #99bac3); */
     /* background: linear-gradient(to bottom left, #eeb38c, #7587a9); */
-    background: linear-gradient(-130deg, #efd5c3, #c9d3e4 90%);
+    background: linear-gradient(in oklch -130deg, #efd5c3, #c9d3e4 90%);
 }
 
 /* Header CSS */
@@ -274,3 +274,4 @@ body {
 .footer-right > img {
     height: 100%;
 }
+
